@@ -6,7 +6,7 @@ require_once __DIR__."/Elementos/cabecera.php";
 require_once __DIR__."/Elementos/servicios.php";
 
 
-
+require_once __DIR__."/Elementos/Contacto.php";
 require_once __DIR__."/Elementos/footer.php";
 
 
