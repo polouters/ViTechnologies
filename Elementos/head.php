@@ -9,18 +9,20 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>ViTechnologies</title>
+    <title>TeknoVi</title>
 
     <!-- Bootstrap  CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!--  CSS -->
     <link href="css/agency.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/colorsspalette.min.css">
 
     <!-- Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+
 
 
     <!--[if lt IE 9]>

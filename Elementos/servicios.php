@@ -1,37 +1,55 @@
 <!-- Services Section -->
 <section id="services">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2 class="section-heading">Servicios</h2>
-                <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
-            </div>
-        </div>
-        <div class="row text-center">
-            <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
+        <div class="row text-left">
+            <div class="col-md-6 col-xs-12 bc-salmon">
+                <ul>
+                    <li>
+                        <h4 class="service-heading">
+                    <span class="fa-stack fa-2x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
                     </span>
-                <h4 class="service-heading">Comercio electronico</h4>
-                <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
-            </div>
-            <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
+                            Comercio electronico</h4>
+
+                    </li>
+                    <li>
+                        <h4 class="service-heading">
+                    <span class="fa-stack fa-2x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
                     </span>
-                <h4 class="service-heading">WEBs a medida</h4>
-                <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
-            </div>
-            <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
+                            WEBs a medida</h4>
+
+                    </li>
+                    <li>
+                        <h4 class="service-heading">
+                    <span class="fa-stack fa-2x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-wrench fa-stack-1x fa-inverse"></i>
-                    </span>
-                <h4 class="service-heading">Taller tecnologico</h4>
-                <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                        </span>
+                            Taller tecnologico</h4>
+
+                    </li>
+                </ul>
             </div>
+            <div class="col-md-6 ">
+                <table class="table center-block padding-10">
+                    <tr>
+                        <th>Consultas 24h*</th>
+                        <th>Redes sociales:</th>
+                    </tr>
+                    <tr>
+                        <td>WhatsApp: +34 666 777 888</td>
+                        <td>Twitter: @TeknoVi</td>
+                    </tr>
+                    <tr>
+                        <td>Email: info@teknovi.es</td>
+                        <td>Facebook: TeknoVi</td>
+                    </tr>
+                </table>
+            </div>
+
         </div>
     </div>
 </section>

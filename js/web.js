@@ -1,0 +1,36 @@
+$(document).ready(function(){
+    $('.queOfrecemos').click(function(){
+        $('.servicios').css("display","block");
+        $('.somos').css("display","none");
+        $('.contacto').css("display","none");
+        $('.m1').css("background","#2E92CD");
+        $('.m2').css("background","#E6E6E6");
+        $('.m3').css("background","#E6E6E6");
+        $('.queOfrecemos').css({"color":"#FFF"});
+        $('.quienesSomos').css({"color":"#333"});
+        $('.contactom').css({"color":"#333"});
+    });
+    $('.quienesSomos').click(function(){
+        $('.servicios').css("display","none");
+        $('.somos').css("display","block");
+        $('.contacto').css("display","none");
+        $('.m2').css("background","#2E92CD");
+        $('.m1').css("background","#E6E6E6");
+        $('.m3').css("background","#E6E6E6");
+        $('.queOfrecemos').css({"color":"#333"});
+        $('.quienesSomos').css({"color":"#FFF"});
+        $('.contactom').css({"color":"#333"});
+    });
+    $('.contactom').click(function(){
+        $('.servicios').css({"display":"none"});
+        $('.somos').css("display","none");
+        $('.contacto').css("display","block");
+        $('.m3').css({"background":"#2E92CD"});
+        $('.m2').css("background","#E6E6E6");
+        $('.m1').css({"background":"#E6E6E6"});
+        $('.queOfrecemos').css({"color":"#333"});
+        $('.quienesSomos').css({"color":"#333"});
+        $('.contactom').css({"color":"#FFF"});
+
+    });
+});
